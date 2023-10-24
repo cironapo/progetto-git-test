@@ -1,5 +1,5 @@
 <?php
-function diff($a,$b){
+function differenza($a,$b){
     return $a-$b;
 }
 function molt($a,$b){
