@@ -1,3 +1,5 @@
 <?php
-//TO DO
+function diff($a,$b){
+    return $a-$b;
+}
 ?>
