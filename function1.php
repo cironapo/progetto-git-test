@@ -1,4 +1,5 @@
 <?php
 function sum( $a,$b,$c){
-    return $a+$b+$b;
+    
+    return $a+$b+$c; //funzione aggiustata
 }
