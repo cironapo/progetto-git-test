@@ -1,3 +1,5 @@
 <?php
-//TO DO
+function molt($a,$b){
+    return $a*$b;
+}
 ?>
